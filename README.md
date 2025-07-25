@@ -1,6 +1,6 @@
 # 🛒 Carrinho de Compras Shopee
 
-Este é um projeto simples e modular de carrinho de compras, inspirado na experiência da Shopee. Ele permite criar itens com subtotal automático, adicionar/remover/deletar produtos do carrinho, visualizar o conteúdo e calcular o valor total.
+Este é um projeto simples e modular de carrinho de compras, inspirado na experiência da Shopee do curso de NODE JS da DIO.me. Ele permite criar itens com subtotal automático, adicionar/remover/deletar produtos do carrinho, visualizar o conteúdo e calcular o valor total.
 
 ## 📁 Estrutura do Projeto
 
