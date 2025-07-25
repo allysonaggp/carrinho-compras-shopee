@@ -88,11 +88,3 @@ node main.js
 
 > Certifique-se de usar o Node.js na versão com suporte a ES Modules (`type: "module"` no `package.json`).
 
-## 📜 Licença
-
-Este projeto está licenciado sob a licença ISC. Veja o arquivo `LICENSE` para mais informações.
-
-## 👨‍💻 Autor
-
-- **Allyson Gonçalves Gomes Pereira**
-- GitHub: [@allysonaggp](https://github.com/allysonaggp)

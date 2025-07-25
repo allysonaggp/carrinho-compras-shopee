@@ -1,6 +1,5 @@
-// Quais ações meu carrinho pode fazer 
-
-// Casos de uso 
+// Ações que o carrinho de compras pode fazer
+// Casos de uso: 
 
 //✅->Adicionar item no carrinho 
 async function addIten(userCart, item) {
